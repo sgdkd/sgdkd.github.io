@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-About this site
+This is my self introduction. I am learning Quarto.
+Nice to meet you! 
